@@ -1,4 +1,3 @@
-#Andres Felipe Alfonso Viviescas -2162063
 class Nodo:
     def __init__(self, valor):
         self.valor = valor
